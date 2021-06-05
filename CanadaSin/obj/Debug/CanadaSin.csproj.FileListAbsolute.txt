@@ -1,0 +1,6 @@
+C:\Users\hp\RiderProjects\lab2\CanadaSin\bin\Debug\CanadaSin.exe
+C:\Users\hp\RiderProjects\lab2\CanadaSin\bin\Debug\CanadaSin.pdb
+C:\Users\hp\RiderProjects\lab2\CanadaSin\obj\Debug\CanadaSin.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\lab2\CanadaSin\obj\Debug\CanadaSin.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\lab2\CanadaSin\obj\Debug\CanadaSin.exe
+C:\Users\hp\RiderProjects\lab2\CanadaSin\obj\Debug\CanadaSin.pdb
